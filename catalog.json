@@ -1,0 +1,338 @@
+{
+  "categories": [
+    "plugins",
+    "samples",
+    "presets",
+    "tools"
+  ],
+  "items": [
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "FabFilter Total Bundle включает все плагины FabFilter: Pro-Q 4, Pro-C 2, Pro-L 2, Pro-MB, Pro-R, Saturn 2, Timeless 3, Volcano 3 и другие. Профессиональные инструменты для обработки звука с интуитивным интерфейсом.",
+      "file_size": "57.6 MB",
+      "icon_url": "https://vsthouse.org/_ld/398/82138696.jpg",
+      "id": "fabfilter-total-bundle",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/fabfilter_total_bundle_v2026_01_15_vst_vst3_aax_clap_x64_16_01_2026_ce_v_r_nabor_plaginov/11-1-0-39845",
+      "name": "FabFilter Total Bundle",
+      "short_description": "Полный набор профессиональных плагинов для микширования и мастеринга",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1Apq2oc_5QbbCi-4THe4vZ4gp6eJbx4Wb",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "mixing",
+        "mastering",
+        "eq",
+        "compressor",
+        "limiter",
+        "bundle"
+      ],
+      "version": "2026"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Fresh Air - это простой и эффективный плагин от Slate Digital, который добавляет высокие частоты и придаёт миксу воздушность и прозрачность. Идеален для вокала, акустических инструментов и общей обработки микса.",
+      "file_size": "49.1 MB",
+      "icon_url": "https://vsthouse.org/_ld/361/99911435.jpg",
+      "id": "slate-digital-fresh-air",
+      "main_site_url": "https://vsthouse.ru/load/vst/svedenie_i_mastering/slate_digital_fresh_air_v1_0_9_vst_vst3_aax_x64_ehffekt_plagin/11-1-0-36128",
+      "name": "Slate Digital Fresh Air",
+      "short_description": "Бесплатный плагин для придания яркости и воздушности звуку",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1nOSQas1rAoFUUVLPwFqi6RZ10hWTEX7c",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "eq",
+        "brightener",
+        "free",
+        "slate digital"
+      ],
+      "version": "1.0.9"
+    },
+    {
+      "activation_required": true,
+      "category": "plugins",
+      "description": "Kickstart 2 - это легендарный плагин для сайдчейн компрессии от Nicky Romero. Идеально подходит для создания пампинг эффекта в EDM треках. Простой интерфейс с кривыми сайдчейна и синхронизацией с темпом проекта.",
+      "file_size": "18.4 MB",
+      "icon_url": "https://vsthouse.org/_ld/320/29014167.jpg",
+      "id": "nicky-romero-kickstart-2",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/nicky_romero_kickstart_2_vst_vst3_aax_win_osx_x64_sajdchejn_ehffektor/11-1-0-32070",
+      "name": "Nicky Romero Kickstart 2",
+      "short_description": "Сайдчейн компрессор для создания пампинг эффекта",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1L0fa1mtyXcfqXcr6rhgwIER1hER0fW3N",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "sidechain",
+        "compressor",
+        "edm",
+        "nicky romero",
+        "pumping"
+      ],
+      "version": "2.0"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Ozone 11 - это полный набор инструментов для мастеринга от iZotope с AI-ассистентом Master Assistant. Включает EQ, компрессор, лимитер, имидж процессор, эксайтер и другие модули для создания профессионального мастеринга.",
+      "file_size": "187.3 MB",
+      "icon_url": "https://vsthouse.org/_ld/364/69690033.jpg",
+      "id": "izotope-ozone-11",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/izotope_ozone_11_advanced_11_2_0_vst3_aax_x64_r2r_plagin_dlja_masteringa/11-1-0-36415",
+      "name": "iZotope Ozone 11",
+      "short_description": "Профессиональный мастеринг с AI ассистентом",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1L1itwAEl70GwCtCza_-_8twAv9j0LHuO",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "mastering",
+        "ai",
+        "izotope",
+        "limiter",
+        "eq",
+        "compressor"
+      ],
+      "version": "11.2.0"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Ozone 12 - последняя версия легендарного мастеринг-пакета от iZotope с обновлённым AI Master Assistant, новыми алгоритмами обработки и улучшенным интерфейсом. Полный набор профессиональных инструментов для финального мастеринга треков.",
+      "file_size": "500 MB",
+      "icon_url": "https://vsthouse.org/_ld/389/61145390.jpg",
+      "id": "izotope-ozone-12",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/izotope_ozone_12_advanced_12_0_2_1331_vst3_aax_x64_09_2025_tcd_plagin_dlja_masteringa/11-1-0-38975",
+      "name": "iZotope Ozone 12",
+      "short_description": "Новейшая версия мастеринг-пакета с улучшенным AI",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1Lth3sZuqQhX-XnMqU6laoGNlZugnjf5i",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "mastering",
+        "ai",
+        "izotope",
+        "limiter",
+        "eq",
+        "compressor",
+        "latest"
+      ],
+      "version": "12.0.2.1331"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Pianoteq 9 - это виртуальное фортепиано на основе физического моделирования (не сэмплы). Невероятно реалистичное звучание, низкое потребление CPU и RAM, полная настройка параметров инструмента. Включает модели роялей, пианино и исторических клавишных.",
+      "file_size": "133.6 MB",
+      "icon_url": "https://vsthouse.org/_ld/402/12097983.jpg",
+      "id": "modartt-pianoteq-9",
+      "main_site_url": "https://vsthouse.org/load/vsti/klavishnye/modartt_pianoteq_v9_1_2_standalone_vst3i_vsti_x64_pianino/4-1-0-40288",
+      "name": "Modartt Pianoteq 9",
+      "short_description": "Физическое моделирование рояля с уникальным реализмом",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1eARg4rxMIIi1ReQjUBUJk7uJ14CBIjY7",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "piano",
+        "physical modeling",
+        "modartt",
+        "instrument",
+        "realistic"
+      ],
+      "version": "9.1.2"
+    },
+    {
+      "activation_required": true,
+      "category": "plugins",
+      "description": "Serum - это один из самых популярных wavetable синтезаторов от Xfer Records (Steve Duda). Визуальный интерфейс, огромная библиотека wavetables, мощная модуляция и эффекты. Стандарт для EDM, trap, dubstep и современной электронной музыки.",
+      "file_size": "176.9 MB",
+      "icon_url": "https://vsthouse.org/_ld/351/10552370.jpg",
+      "id": "xfer-serum",
+      "main_site_url": "https://vsthouse.org/load/vsti/sintezatory/xfer_records_serum_v1_368_vsti_vsti3_aax_x86_x64_r2r_sintezator/3-1-0-35149",
+      "name": "Xfer Records Serum",
+      "short_description": "Легендарный wavetable синтезатор для современной музыки",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1lOU5HyE7qG1_sk6ZspuXWuFiqyjpSFhb",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "synthesizer",
+        "wavetable",
+        "xfer",
+        "serum",
+        "edm",
+        "bass"
+      ],
+      "version": "1.368"
+    },
+    {
+      "activation_required": true,
+      "category": "plugins",
+      "description": "Serum 2 - это обновлённая версия культового синтезатора с улучшенным движком, новыми возможностями модуляции, расширенными эффектами и оптимизированным интерфейсом. Ещё больше wavetables, ещё мощнее звук, ещё удобнее работать.",
+      "file_size": "1.23 GB",
+      "icon_url": "https://vsthouse.org/_ld/385/51665403.jpg",
+      "id": "xfer-serum-2",
+      "main_site_url": "https://vsthouse.org/load/vsti/sintezatory/xfer_records_serum_2_v2_1_2_vst3i_aax_x64_ce_v_r_sintezator/3-1-0-40449",
+      "name": "Xfer Records Serum 2",
+      "short_description": "Новое поколение легендарного wavetable синтезатора",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1Y2HoRXLdeieuhlo6hb-Qs9VCfiHpgqrl",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "synthesizer",
+        "wavetable",
+        "xfer",
+        "serum",
+        "edm",
+        "bass",
+        "latest"
+      ],
+      "version": "2.1.2"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "ShaperBox 3 - это набор из 9 мощных эффектов для создания ритмических паттернов: Volume Shaper, Filter, Pan, Width, Crush, Drive, Noise, Reverb и Delay. Визуальное редактирование огибающих, синхронизация с темпом, MIDI-триггеры. Идеален для EDM, trap и экспериментальной музыки.",
+      "file_size": "20.4 MB",
+      "icon_url": "https://vsthouse.org/_ld/396/05895377.jpg",
+      "id": "cableguys-shaperbox-3",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/cableguys_shaperbox_v3_6_2_vst_vst3_aax_x64_ce_v_r_processor_ehffektov/11-1-0-39655",
+      "name": "Cableguys ShaperBox 3",
+      "short_description": "Мультиэффект для ритмической обработки звука",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1tqJ8ppXbXDZhtPpbis4o5d14l4iLtQ0-",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "multieffect",
+        "cableguys",
+        "rhythm",
+        "modulation",
+        "edm",
+        "creative"
+      ],
+      "version": "3.6.2"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Soothe2 - это умный плагин для устранения резонансов и резких частот в режиме реального времени. Автоматически находит и подавляет проблемные частоты, сохраняя естественность звука. Идеален для вокала, гитар, синтезаторов и мастеринга.",
+      "file_size": "29.3 MB",
+      "icon_url": "https://vsthouse.org/_ld/293/21445606.jpg",
+      "id": "oeksound-soothe2",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/oeksound_soothe2_v_1_1_2_vst_vst3_aax_x64_ehffekt_plagin/11-1-0-29319",
+      "name": "oeksound Soothe2",
+      "short_description": "Интеллектуальный динамический резонанс-супрессор",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1v7Mr2Amzam6FPMJCgfurAKgxFcs2YRuc",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "eq",
+        "dynamic",
+        "resonance",
+        "oeksound",
+        "mixing",
+        "vocal"
+      ],
+      "version": "1.1.2"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "SoundToys 5 - это полный набор из 21 плагина для креативной обработки звука: EchoBoy, Decapitator, PhaseMistress, Crystallizer и другие. Эмуляции винтажного железа, креативные эффекты и модуляции. Используется в профессиональных студиях по всему миру.",
+      "file_size": "512.8 MB",
+      "icon_url": "https://vsthouse.org/_ld/139/77135140.jpg",
+      "id": "soundtoys-5",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/soundtoys_the_ultimate_effect_solution_5_0_1_10839_vst_x86_x64_nabor_plaginov/11-1-0-13950",
+      "name": "SoundToys 5",
+      "short_description": "Коллекция винтажных эффектов для креативной обработки",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1HNNPTtZROSh2yZj3cBcQVkKwwa---CR6",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "effects",
+        "bundle",
+        "vintage",
+        "creative",
+        "soundtoys",
+        "saturation",
+        "delay"
+      ],
+      "version": "5.0.1.10839"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Valhalla DSP Bundle включает все плагины Valhalla: VintageVerb, Room, Plate, Shimmer, Delay, Freq Echo и другие. Профессиональные алгоритмы реверберации и дилея с чистым звучанием и низким потреблением CPU. Используются в топовых студиях для создания пространства и атмосферы.",
+      "file_size": "87.6 MB",
+      "icon_url": "https://vsthouse.org/_ld/395/65544002.jpg",
+      "id": "valhalla-dsp-bundle",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/valhalladsp_plugins_bundle_2025_12_vst_vst3_aax_au_win_osx_x64_03_12_2025_ce_v_r_nabor_plaginov/11-1-0-39522",
+      "name": "Valhalla DSP Bundle",
+      "short_description": "Коллекция легендарных реверберационных плагинов",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1KYozCpAMw0GS80XIG40J4sAX1NYVR7yR",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "reverb",
+        "delay",
+        "valhalla",
+        "effects",
+        "bundle",
+        "space",
+        "atmosphere"
+      ],
+      "version": "2025.12"
+    },
+    {
+      "activation_required": false,
+      "category": "plugins",
+      "description": "Virtual Mix Rack (VMR) - это модульная система обработки от Slate Digital с эмуляциями легендарного студийного оборудования: компрессоры, эквалайзеры, сатураторы, гейты. Можно комбинировать модули в любом порядке, создавая свою уникальную цепочку обработки. Аналоговый звук в цифре.",
+      "file_size": "483.3 MB",
+      "icon_url": "https://vsthouse.org/_ld/308/61525275.jpg",
+      "id": "slate-digital-virtual-mix-rack",
+      "main_site_url": "https://vsthouse.org/load/vst/svedenie_i_mastering/slate_digital_vmr_virtual_mix_rack_complete_2_6_4_0_vst_vst3_aax_x64_nabor_plaginov/11-1-0-30896",
+      "name": "Slate Digital Virtual Mix Rack",
+      "short_description": "Модульная стойка с эмуляциями винтажного железа",
+      "sources": {
+        "gdrive_url": "https://drive.google.com/uc?export=download&id=1FFFzPthhA-3URjX2Z9M0kgbOlMBAsrdk",
+        "magnet_uri": "",
+        "torrent_url": ""
+      },
+      "tags": [
+        "mixing",
+        "slate digital",
+        "vintage",
+        "modular",
+        "compressor",
+        "eq",
+        "saturation"
+      ],
+      "version": "2.6.4.0"
+    }
+  ],
+  "schema_version": "1.1",
+  "updated_at": "2026-09-07"
+}
